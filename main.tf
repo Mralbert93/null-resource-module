@@ -1,9 +1,10 @@
 terraform {
   cloud {
-    organization = "hashicorp-matthew"
+    hostname = "well-squid.tf-support.hashicorpdemo.com"
+    organization = "hashicorp"
 
     workspaces {
-      name = "test-workspace"
+      name = "test-workspace-2"
     }
   }
   required_providers {
