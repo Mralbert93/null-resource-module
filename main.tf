@@ -1,6 +1,6 @@
 terraform {
   cloud {
-    hostname = "well-squid.tf-support.hashicorpdemo.com"
+    hostname = "promoted-airedale.tf-support.hashicorpdemo.com"
     organization = "hashicorp"
 
     workspaces {
